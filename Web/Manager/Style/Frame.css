@@ -1,0 +1,71 @@
+
+body{margin:0px;padding:0px;font-size:14px; font-family: Arial,ËÎÌו;color:#000000;}
+.body_main{background:#3560A5;}
+a{color:#1E64D5; text-decoration:underline;}
+img{border:0;}
+ul,li,ol{margin:0; padding:0; list-style:none;}
+form,table,p,h1,h2,h3.h4{margin:0; padding:0;}
+h1,h2,h3,h4{font-size:14px;}
+
+#Ffooter,#Fheader,#Fcontainer{clear:both;width:1002px; margin:0 auto; border:0; background:#ffffff;}
+#Fheader{height:47px; background:#133775; border-bottom:5px solid #5E82BC;}
+#Fheader .Flogo{position:relative; left:20px; top:10px; width:auto; float:left;}
+#Fheader .Fheadnav{position:relative; right:0; top:25px; width:auto; float:right;color:#FFFFFF;}
+#Fheader .Fheadnav a{color:#FFFFFF; text-decoration:none; padding:0 10px; font-size:12px; text-decoration:underline;}
+/*topnav*/
+#Ftopnav {
+	width:1002px;
+	background:#617CB7;
+	margin:0 auto;
+	font-family:"ËÎÌו";
+	font-size:0;
+}
+#Ftopnav a{color:#FFFFFF; line-height:20px;font-size:12px; margin-left:30px;background:#617CB7; display:block; width:80px}
+
+#Fmain{width:100%;background:#fff; float:left;}
+#Fleft{float:left;width:148px; background:#7A9CC9; *border-right:1px solid #133775; border-left:1px solid #5E82BE; height:auto!important;height:490px;min-height:490px; overflow:hidden;}
+
+#Fleft .Fleftnav{font-size:14px; font-weight:bold; margin-top:14px;width:147px;}
+#Fleft .Fleftnav li{padding:7px 5px 7px 15px;}
+#Fleft .Fleftnav li .Flefticon{padding-left:23px;}
+#Fleft li.Fcurrentnav{ border:1px solid #133775; background:#C4D8ED;padding:7px 5px 5px 11px; width:129px;_width:129px; border-right:1px solid #C4D8ED; position:relative; right:-3px;}
+#Fleft li.Fcurrentnav a{color:#000000; text-decoration:none;font-size:12px;}
+#Fleft li.Fcurrentnav a.graylink{ font-weight:bold;}
+#Fleft li a{color:#ffffff; cursor:pointer;}
+#Fleft li div{ padding-left:0px; padding-top:10px;font-size:12px;font-weight:normal;}
+#Fleft li div img{vertical-align:bottom;}
+#Fleft a.graylink{color:#CFE4FF; text-decoration:underline;}
+#Fleft .Fleftad{float:left;width:134px; padding:25px 0 0 13px; overflow:hidden;}
+
+#Fleft #Fapplynav li{padding:7px 5px 7px 15px; float:left; width:85%;}
+#Fleft #Fapplynav li.Fcurrentnav{width:128px;_width:129px;padding:7px 5px 5px 11px;}
+#Fleft .Fapplynav{font-size:14px; font-weight:bold;  margin-bottom:20px; height:auto; float:left;width:147px;}
+#Fleft .Fapplynav li{padding:7px 0; float:left; width:99%;}
+#Fleft .Fapplynav li img{position:relative; top:3px;}
+
+#Fleft .Fapplynav li.Fcurrentnav{_width:148px;}
+#Fleft .Fapplynav li .Flefticon{padding-left:23px;}
+
+
+.Flefticon{background:url(alllefticon.gif) no-repeat; padding-left:18px;}
+.Ficon1{ background-position:0 0;}
+.Ficon2{ background-position:0 -20px;}
+.Ficon3{ background-position:0 -40px;}
+.Ficon4{ background-position:0 -61px;}
+.Ficon5{ background-position:0 -81px;}
+.Ficon6{ background-position:0 -100px;}
+.Ficon7{ background-position:0 -120px;}
+.Ficon8{ background-position:0 -140px;}
+.Ficon9{ background-position:0 -160px;}
+.Ficon10{ background-position:0 -180px;}
+.Ficon11{ background-position:0 -200px;}
+.Ficon12{ background-position:0 -220px;}
+
+#Fcenter2{float:left;;width:852px;_width:845px; height:auto!important;height:490px;min-height:490px; }
+
+
+#Ffooter{border-top:5px solid #4878C6; position:relative;z-index:0; height:40px; }
+#Ffooter a{color:#000000; margin:0 5px; text-decoration:underline;}
+#Ffooter a:hover{color:#ff0000;}
+#Ffooter .bottomtext{font-size:12px;text-align:left; float:left; margin:15px 60px 0 20px; _margin-left:10px;}
+#Ffooter .copyright{ float:left; margin:15px 30px 0 0;padding-left:400px;}
